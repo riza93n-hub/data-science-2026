@@ -6,8 +6,6 @@ Repositori ini berisi kumpulan materi, tugas dan eksplorasi selama mengikuti mat
 
 ## 👨‍🎓 Informasi Mahasiswa
 
-| Keterangan | Detail |
-|-----------|--------|
 | **Nama**  | RIZA |
 | **NIM**   | 250401020014 |
 | **Program Studi** | Informatika |
