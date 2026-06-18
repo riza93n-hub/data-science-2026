@@ -33,7 +33,6 @@ Berikut adalah rincian materi yang telah saya pelajari dan selesaikan. Anda dapa
 | **06** | Jaringan Persiapan Data (*Preprocessing Pipeline* Klasifikasi) | [Buka Notebook](./Pertemuan_6.ipynb) |
 | **07** | Implementasi End-to-End Jalur Regresi Linear & Evaluasi Metrik | [Buka Notebook](./Pertemuan_7.ipynb) |
 
-> *Catatan: Pastikan nama file `.ipynb` di folder GitHub kamu sudah disesuaikan dengan nama yang ada di dalam kurung tautan di atas ya.*
 
 ---
 
