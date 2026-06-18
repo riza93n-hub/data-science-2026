@@ -58,4 +58,4 @@ Anda dapat menguji atau menjalankan seluruh kode program di repositori ini denga
 ### Cara 2: Menjalankan Secara Lokal di Komputer
 1. Unduh atau klon repositori ini ke komputer Anda:
    ```bash
-   git clone [https://github.com/riza93n-hub/data-science-2026.git](https://github.com/riza93n-hub/data-science-2026.git)
+   git clone https://github.com/riza93n-hub/data-science-2026.git
